@@ -21,7 +21,7 @@
 - string
 - comparison operator
 - casting
-- -string concation
+- string concation
 - assignment operator
 - annotation
 - list
