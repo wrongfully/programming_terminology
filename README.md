@@ -26,8 +26,10 @@
 - casting
 - string concation
 - assignment operator
-- annotation
+- annotation (comment)
 - list
 - arithmetic operator
 - selection
 - iteration
+
+**Hint:** Vist [101 Computing](https://www.101computing.net/programming-terminology-drag-and-drop/) to check your answers.
